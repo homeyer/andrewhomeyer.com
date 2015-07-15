@@ -1,2 +1,4 @@
-# [Andrew Homeyer](http://andrewhomeyer.com)
-Theme: [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) by [StartBootstrap](http://startbootstrap.com/)
+# [andrewhomeyer.com](http://andrewhomeyer.com)
+My personal website.
+
+The theme started from [Grayscale](http://startbootstrap.com/template-overviews/grayscale/), by [StartBootstrap](http://startbootstrap.com/)
