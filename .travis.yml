@@ -1,0 +1,6 @@
+deploy:
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
+  bucket: "andrewhomeyer.com"
+  endpoint: "andrewhomeyer.com.s3-website-us-east-1.amazonaws.com"
